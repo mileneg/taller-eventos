@@ -7,4 +7,3 @@ function Soy(){
     alert("Hola! Soy el div");
     
 }
-
